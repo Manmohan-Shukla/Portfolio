@@ -41,7 +41,7 @@ export default function Portfolio() {
       image: "/placeholder.svg?height=200&width=300",
       technologies: ["React", "Node.js", "Websocket", "MongoDB"],
       github: "https://github.com/Manmohan-Shukla/Chat_App-V1",
-      live: "chat-app-v1-five.vercel.app",
+      live: "https://chat-app-v1-five.vercel.app/",
     },
     {
       title: "Weather Dashboard",
