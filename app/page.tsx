@@ -61,7 +61,7 @@ export default function Portfolio() {
       <nav className="fixed top-0 w-full bg-background/80 backdrop-blur-sm border-b z-50">
         <div className="container mx-auto px-4 py-4">
           <div className="flex justify-between items-center">
-            <h1 className="text-xl font-bold">John Doe</h1>
+            <h1 className="text-xl font-bold">Manmohan Shukla</h1>
             <div className="flex items-center space-x-4">
               <div className="hidden md:flex space-x-6">
                 <Link href="#about" className="hover:text-primary transition-colors">
@@ -103,7 +103,7 @@ export default function Portfolio() {
               <div className="absolute -bottom-2 -right-2 w-8 h-8 bg-green-500 rounded-full border-4 border-background animate-pulse" />
             </div>
             <h1 className="text-4xl md:text-6xl font-bold mb-4">
-              Hi, I'm <span className="text-primary">John Doe</span>
+              Hi, I'm <span className="text-primary">Manmohan Shukla</span>
             </h1>
             <div className="text-xl md:text-2xl text-muted-foreground mb-8 max-w-2xl mx-auto h-8">
               <TypingAnimation texts={typingTexts} />
@@ -249,13 +249,13 @@ export default function Portfolio() {
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <Button size="lg" className="gap-2 hover:scale-105 transition-transform" asChild>
-              <Link href="mailto:john@example.com">
+              <Link href="mailto:manmohanshukla815@gmail.com">
                 <Mail className="w-4 h-4" />
                 Send Email
               </Link>
             </Button>
             <Button variant="outline" size="lg" className="hover:scale-105 transition-transform" asChild>
-              <Link href="https://linkedin.com/in/johndoe">
+              <Link href="https://www.linkedin.com/in/manmohan-shukla-291a5727b/">
                 <Linkedin className="w-4 h-4" />
                 Connect on LinkedIn
               </Link>
