@@ -38,7 +38,7 @@ export default function Portfolio() {
       title: "Chat App",
       description:
         "A Full Stack Website for chatting with other people with room logic with mordern slick design",
-      image: "/chat-app-preview.png?height=200&width=300",
+      image: "/chat-app-preview.png",
       technologies: ["React", "Node.js", "Websocket", "MongoDB"],
       github: "https://github.com/Manmohan-Shukla/Chat_App-V1",
       live: "https://chat-app-v1-five.vercel.app/",
