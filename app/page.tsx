@@ -112,10 +112,13 @@ export default function Portfolio() {
               Passionate about creating beautiful, functional web applications that solve real-world problems
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
-              <Button size="lg" className="gap-2 hover:scale-105 transition-transform">
-                <Download className="w-4 h-4" />
-                Download Resume
+              <a href="/Manmohan Shukla.pdf" download>
+             <Button size="lg" className="gap-2 hover:scale-105 transition-transform">
+              <Download className="w-4 h-4" />
+                                  Download Resume
               </Button>
+               </a>
+
               <Button variant="outline" size="lg" asChild className="hover:scale-105 transition-transform">
                 <Link href="#contact">Get In Touch</Link>
               </Button>
