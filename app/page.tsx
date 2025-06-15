@@ -35,13 +35,13 @@ export default function Portfolio() {
       live: "#",
     },
     {
-      title: "Task Management App",
+      title: "Chat App",
       description:
-        "A collaborative task management application with real-time updates and team collaboration features.",
+        "A Full Stack Website for chatting with other people with room logic with mordern slick design",
       image: "/placeholder.svg?height=200&width=300",
-      technologies: ["React", "Node.js", "Socket.io", "MongoDB"],
-      github: "#",
-      live: "#",
+      technologies: ["React", "Node.js", "Websocket", "MongoDB"],
+      github: "https://github.com/Manmohan-Shukla/Chat_App-V1",
+      live: "chat-app-v1-five.vercel.app",
     },
     {
       title: "Weather Dashboard",
@@ -122,13 +122,13 @@ export default function Portfolio() {
             </div>
           </div>
           <div className="flex justify-center space-x-6">
-            <Link href="#" className="text-muted-foreground hover:text-primary hover:scale-110 transition-all">
+            <Link href="https://github.com/Manmohan-Shukla" className="text-muted-foreground hover:text-primary hover:scale-110 transition-all">
               <Github className="w-6 h-6" />
             </Link>
-            <Link href="#" className="text-muted-foreground hover:text-primary hover:scale-110 transition-all">
+            <Link href="https://www.linkedin.com/in/manmohan-shukla-291a5727b/" className="text-muted-foreground hover:text-primary hover:scale-110 transition-all">
               <Linkedin className="w-6 h-6" />
             </Link>
-            <Link href="#" className="text-muted-foreground hover:text-primary hover:scale-110 transition-all">
+            <Link href="mailto:manmohanshukla815@gmail.com" className="text-muted-foreground hover:text-primary hover:scale-110 transition-all">
               <Mail className="w-6 h-6" />
             </Link>
           </div>
@@ -267,7 +267,7 @@ export default function Portfolio() {
       {/* Footer */}
       <footer className="py-8 px-4 border-t">
         <div className="container mx-auto text-center">
-          <p className="text-muted-foreground">© {new Date().getFullYear()} John Doe. All rights reserved.</p>
+          <p className="text-muted-foreground">© {new Date().getFullYear()} Manmohan Shukla. All rights reserved.</p>
         </div>
       </footer>
     </div>
