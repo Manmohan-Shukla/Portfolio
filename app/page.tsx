@@ -56,6 +56,7 @@ export default function Portfolio() {
       image: "/placeholder.svg?height=200&width=300",
       technologies: ["React", "Typescript"],
       github: "https://github.com/Manmohan-Shukla/Second-Brain",
+      live:"#",
     },
   ]
 
