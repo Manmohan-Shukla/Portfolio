@@ -50,12 +50,12 @@ export default function Portfolio() {
       live: "https://chat-app-v1-five.vercel.app/",
     },
     {
-      title: "Weather Dashboard",
-      description: "A responsive weather dashboard with location-based forecasts and interactive charts.",
+      title: "Second Brain App",
+      description:
+        "A minimalist Second Brain app to capture, organize, and retrieve your ideas, notes, and knowledge effortlessly.",
       image: "/placeholder.svg?height=200&width=300",
-      technologies: ["React", "Chart.js", "OpenWeather API", "CSS3"],
-      github: "#",
-      live: "#",
+      technologies: ["React", "Typescript"],
+      github: "https://github.com/Manmohan-Shukla/Second-Brain",
     },
   ]
 
