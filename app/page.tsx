@@ -119,7 +119,7 @@ export default function Portfolio() {
               Passionate about creating beautiful, functional web applications that solve real-world problems
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
-              <a href="/Manmohan Shukla.pdf" download>
+              <a href="/Manmohan_resume.pdf" download>
              <Button size="lg" className="gap-2 hover:scale-105 transition-transform">
               <Download className="w-4 h-4" />
                                   Download Resume
