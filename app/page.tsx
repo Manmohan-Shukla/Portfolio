@@ -25,14 +25,20 @@ export default function Portfolio() {
   ]
 
   const projects = [
-    {
-      title: "E-Commerce Platform",
+   {
+      title: "CanvasDraw",
       description:
-        "A full-stack e-commerce solution with payment integration, inventory management, and admin dashboard.",
+        "A full-stack collaborative  solution for drawing with real-time integration and admin dashboard.",
       image: "/placeholder.svg?height=200&width=300",
-      technologies: ["Next.js", "TypeScript", "Stripe", "PostgreSQL"],
-      github: "#",
-      live: "#",
+      technologies: [
+        "Next.js",
+        "TypeScript",
+        "Canvas",
+        "PostgreSQL",
+        "Websocket",
+      ],
+      github: "https://github.com/Manmohan-Shukla/CanvasDraw",
+      live: "https://canvas-draw-my-app.vercel.app/",
     },
     {
       title: "Chat App",
