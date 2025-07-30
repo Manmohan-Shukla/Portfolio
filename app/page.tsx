@@ -29,7 +29,7 @@ export default function Portfolio() {
       title: "CanvasDraw",
       description:
         "A full-stack collaborative  solution for drawing with real-time integration and admin dashboard.",
-      image: "/placeholder.svg?height=200&width=300",
+      image: "/Screenshot 2025-07-30 234414.png",
       technologies: [
         "Next.js",
         "TypeScript",
