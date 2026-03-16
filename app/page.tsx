@@ -61,7 +61,7 @@ export default function Portfolio() {
     {
   "title": "Video Game Sales EDA",
   "description": "Exploratory analysis of 16,500+ video games sales data (genres, platforms, regions, years). Highlights skewness (most games sell modestly), regional differences (e.g., Action in NA, RPG in Japan), and non-obvious insights like popular niche titles with median sales. Full visualizations in Jupyter.",
-  "image": "/placeholder.svg?height=200&width=300",
+  "image": "/Screenshot 2026-03-16 192231.png",
   "technologies": ["Python", "Pandas", "NumPy", "Matplotlib", "Seaborn", "Jupyter Notebook"],
   "github": "https://github.com/Manmohan-Shukla/data-visualisation",
   "live": "https://nbviewer.org/github/Manmohan-Shukla/data-visualisation/blob/main/matplot.ipynb",  // Quick static render (recommended for portfolios)
