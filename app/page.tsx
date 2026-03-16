@@ -58,6 +58,15 @@ export default function Portfolio() {
       github: "https://github.com/Manmohan-Shukla/Second-Brain",
       live:"#",
     },
+    {
+  "title": "Video Game Sales EDA",
+  "description": "Exploratory analysis of 16,500+ video games sales data (genres, platforms, regions, years). Highlights skewness (most games sell modestly), regional differences (e.g., Action in NA, RPG in Japan), and non-obvious insights like popular niche titles with median sales. Full visualizations in Jupyter.",
+  "image": "/placeholder.svg?height=200&width=300",
+  "technologies": ["Python", "Pandas", "NumPy", "Matplotlib", "Seaborn", "Jupyter Notebook"],
+  "github": "https://github.com/Manmohan-Shukla/data-visualisation",
+  "live": "https://nbviewer.org/github/Manmohan-Shukla/data-visualisation/blob/main/matplot.ipynb",  // Quick static render (recommended for portfolios)
+  "interactive": "https://mybinder.org/v2/gh/Manmohan-Shukla/data-visualisation/main?filepath=matplot.ipynb"  // Optional: Binder for live execution
+},
   ]
 
   const typingTexts = ["Full Stack Developer", "React Specialist", "UI/UX Enthusiast", "Problem Solver"]
