@@ -116,7 +116,7 @@ export default function Portfolio() {
           <div className="mb-8">
             <div className="relative inline-block mb-6">
               <Image
-                src="/placeholder.svg?height=150&width=150"
+                src="/my photo.jpg?height=150&width=150"
                 alt="Profile"
                 width={150}
                 height={150}
