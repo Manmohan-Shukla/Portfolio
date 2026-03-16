@@ -9,20 +9,26 @@ import { MobileNav } from "@/components/mobile-nav"
 import { TypingAnimation } from "@/components/typing-animation"
 
 export default function Portfolio() {
-  const skills = [
-    "React",
-    "Next.js",
-    "TypeScript",
-    "JavaScript",
-    "Node.js",
-    "Python",
-    "Tailwind CSS",
-    "PostgreSQL",
-    "MongoDB",
-    "AWS",
-    "Docker",
-    "Git",
-  ]
+ const skills = [
+  "React",
+  "Next.js",
+  "TypeScript",
+  "JavaScript",
+  "Node.js",
+  "Python",
+  "NumPy",
+  "Pandas",
+  "Matplotlib",
+  "Seaborn",
+  "Scikit-learn",
+  "Tailwind CSS",
+  "PostgreSQL",
+  "MongoDB",
+  "AWS",
+  "Docker",
+   "WebSocket",
+  "Git",
+];
 
   const projects = [
    {
