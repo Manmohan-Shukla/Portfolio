@@ -50,7 +50,7 @@ export default function Portfolio() {
   title: "Interactive DFA Simulator",
   description:
     "A full-stack web-based tool to design, simulate, and minimize Deterministic Finite Automata (DFA) with real-time visualization and export/import support.",
-  image: "/Screenshot 2026-03-29 213225.png",
+  image: "/Screenshot 2026-03-30 100513.png",
   technologies: [
     "React",
     "Next.js",
@@ -72,15 +72,7 @@ export default function Portfolio() {
       github: "https://github.com/Manmohan-Shukla/Chat_App-V1",
       live: "https://chat-app-v1-five.vercel.app/",
     },
-    {
-      title: "Second Brain App",
-      description:
-        "A minimalist Second Brain app to capture, organize, and retrieve your ideas, notes, and knowledge effortlessly.",
-      image: "/placeholder.svg?height=200&width=300",
-      technologies: ["React", "Typescript"],
-      github: "https://github.com/Manmohan-Shukla/Second-Brain",
-      live:"#",
-    },
+   
     {
   "title": "Video Game Sales EDA",
   "description": "Exploratory analysis of 16,500+ video games sales data (genres, platforms, regions, years). Highlights skewness (most games sell modestly), regional differences (e.g., Action in NA, RPG in Japan), and non-obvious insights like popular niche titles with median sales. Full visualizations in Jupyter.",
@@ -89,7 +81,15 @@ export default function Portfolio() {
   "github": "https://github.com/Manmohan-Shukla/data-visualisation",
   "live": "https://nbviewer.org/github/Manmohan-Shukla/data-visualisation/blob/main/matplot.ipynb",  // Quick static render (recommended for portfolios)
   "interactive": "https://mybinder.org/v2/gh/Manmohan-Shukla/data-visualisation/main?filepath=matplot.ipynb"  // Optional: Binder for live execution
-},
+}, {
+      title: "Second Brain App",
+      description:
+        "A minimalist Second Brain app to capture, organize, and retrieve your ideas, notes, and knowledge effortlessly.",
+      image: "/placeholder.svg?height=200&width=300",
+      technologies: ["React", "Typescript"],
+      github: "https://github.com/Manmohan-Shukla/Second-Brain",
+      live:"#",
+    },
   ]
 
   const typingTexts = ["Full Stack Developer", "React Specialist", "UI/UX Enthusiast", "Problem Solver"]
