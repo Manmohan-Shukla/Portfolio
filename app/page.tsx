@@ -50,7 +50,7 @@ export default function Portfolio() {
   title: "Interactive DFA Simulator",
   description:
     "A full-stack web-based tool to design, simulate, and minimize Deterministic Finite Automata (DFA) with real-time visualization and export/import support.",
-  image: "/dfa-simulator.png",
+  image: "/Screenshot 2026-03-29 213225.png",
   technologies: [
     "React",
     "Next.js",
