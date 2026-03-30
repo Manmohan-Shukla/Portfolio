@@ -46,6 +46,23 @@ export default function Portfolio() {
       github: "https://github.com/Manmohan-Shukla/CanvasDraw",
       live: "https://canvas-draw-my-app.vercel.app/",
     },
+   {
+  title: "Interactive DFA Simulator",
+  description:
+    "A full-stack web-based tool to design, simulate, and minimize Deterministic Finite Automata (DFA) with real-time visualization and export/import support.",
+  image: "/dfa-simulator.png",
+  technologies: [
+    "React",
+    "Next.js",
+    "Node.js",
+    "Express",
+    "Automata Theory",
+    "Hopcroft Algorithm",
+    "Table Filling Method"
+  ],
+  github: "https://github.com/Manmohan-Shukla/v0-code-deterministic-ai",
+  live: "https://v0-code-deterministic-ai.vercel.app/",
+},
     {
       title: "Chat App",
       description:
